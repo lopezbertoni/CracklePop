@@ -1,0 +1,6 @@
+C:\ProjectsGitHub\CracklePop\CracklePop\bin\Debug\CracklePop.exe.config
+C:\ProjectsGitHub\CracklePop\CracklePop\bin\Debug\CracklePop.exe
+C:\ProjectsGitHub\CracklePop\CracklePop\bin\Debug\CracklePop.pdb
+C:\ProjectsGitHub\CracklePop\CracklePop\obj\Debug\CracklePop.csprojResolveAssemblyReference.cache
+C:\ProjectsGitHub\CracklePop\CracklePop\obj\Debug\CracklePop.exe
+C:\ProjectsGitHub\CracklePop\CracklePop\obj\Debug\CracklePop.pdb
